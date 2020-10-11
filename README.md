@@ -1,0 +1,1 @@
+# fast_admin_view
